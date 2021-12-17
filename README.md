@@ -16,9 +16,9 @@
     phát bộ nhớ tự động. Python có cấu trúc dữ liệu cấp cao mạnh mẽ và cách tiếp cận đơn giản nhưng hiệu
     quả đối với lập trình hướng đối tượng. Cú pháp lệnh của Python là điểm cộng vô cùng lớn vì sự rõ ràng,
     dễ hiểu và cách gõ linh động làm cho nó nhanh chóng trở thành một ngôn ngữ lý tưởng để viết script và 
-    phát triển ứng dụng trong nhiều lĩnh vực, ở hầu hết các nền tảng. <br/> <br/>
+    phát triển ứng dụng trong nhiều lĩnh vực, ở hầu hết các nền tảng.
     
-    Top 5 website học Python miễn phí tốt nhất <br/> <br/>
+    Top 5 website học Python miễn phí tốt nhất
     
 Trong bài viết này, Lập trình không khó sẽ cung cấp cho bạn 5 website học python tốt nhất miễn phí mà nội dung giáo trình đảm bảo hơn bất kỳ khóa học mất phí nào. Các bạn chỉ cần chọn ra cho mình một website học python mà bạn ưng ý và cày cuốc thôi. <br/><br/><br/>
 
